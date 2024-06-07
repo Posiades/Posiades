@@ -23,7 +23,9 @@ Hi, My name's Ngoc Thach, currently studying web development at FPT Polytechnic 
 ---
 
 ## Frameworks
- ![Laravel Icon](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+ ![Laravel Icon](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+ ![Node.js Icon](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ---
 
@@ -31,7 +33,12 @@ Hi, My name's Ngoc Thach, currently studying web development at FPT Polytechnic 
  ![MySQL Icon](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+## FLATFORM
+ ![Docker Icon](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ ![Git Icon](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+---
 ## IDE
  ![VS Code Icon](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
